@@ -1,0 +1,6 @@
+{
+  "name": "Desktop Booking Manager",
+  "description": "نظام إدارة الحجوزات المتقدم بتعريب كامل وبأمن تشفير أوفلاين غير متصل بالشبكة. A full-featured scheduling and booking workspace with complete Arabic language support and offline-first activation code security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
